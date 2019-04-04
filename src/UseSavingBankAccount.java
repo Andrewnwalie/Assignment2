@@ -1,3 +1,11 @@
+/**
+ * 
+ * @Group 14
+ * @member: Chen Zhang R#:11538728
+ * @member: Colyn Whittemore R#:11550115
+ * @member: Jan Zverina R#:11633779
+ *
+ */
 
 public class UseSavingBankAccount{
 	public static SavingAccount account_arr[];

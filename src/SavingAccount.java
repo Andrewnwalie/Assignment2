@@ -1,4 +1,13 @@
 
+/**
+ * 
+ * @Group 14
+ * @member: Chen Zhang R#:11538728
+ * @member: Colyn Whittemore R#:11550115
+ * @member: Jan Zverina R#:11633779
+ *
+ */
+
 public class SavingAccount extends Account {
 	private double rate;
 
@@ -15,8 +24,8 @@ public class SavingAccount extends Account {
 		return false;
 	}
 
-	public void deductLoan() {
-
+	public void deductLoan(double amount) {
+		withdraw(amount);
 	}
 
 }

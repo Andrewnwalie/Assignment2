@@ -1,5 +1,14 @@
 import javax.swing.JOptionPane;
 
+/**
+ * 
+ * @Group 14
+ * @member: Chen Zhang R#:11538728
+ * @member: Colyn Whittemore R#:11550115
+ * @member: Jan Zverina R#:11633779
+ *
+ */
+
 public class Account {
 	protected int id;
 	protected String strName;
